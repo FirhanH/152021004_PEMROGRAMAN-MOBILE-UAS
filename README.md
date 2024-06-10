@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/FirhanH/152021004_PEMROGRAMAN-MOBILE-UAS/assets/122663027/c3f53c64-7ff9-4600-a0a9-16d945661952)
+
+●	Developed a user-friendly Todo app with CRUD operations for user authentication and note management, ensuring intuitive design and seamless functionality. ● Utilized: Flutter, Firebase
